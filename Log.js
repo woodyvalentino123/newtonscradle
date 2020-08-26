@@ -14,6 +14,6 @@ class Log{
     var pos = this.body.position;
     push();
     rectMode(CENTER);
-    rect(pos.x,pos.y,400,20);    
+    rect(pos.x,pos.y,200,20);    
     } 
   }
